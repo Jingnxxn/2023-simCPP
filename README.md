@@ -228,23 +228,22 @@ int main() {
 ##C++의 주요 특징 20가지의 제목을 적어 보고 토의 하시오.
 -----------------------------------------
 객체지향 프로그래밍
-
-일반화 프로그래밍 (Generic Programming)
-메모리 관리
-표준 라이브러리
-다중 상속
-예외 처리 (Exception Handling)
-인라인 함수 (Inline Functions)
-포인터 및 참조
-템플릿
-네임스페이스
-const 키워드
-함수 오버로딩
-연산자 오버로딩
-표준 입출력 스트림
-스마트 포인터 (Smart Pointers)
-캡슐화
-가상 함수 (Virtual Functions)
-다형성 (Polymorphism)
-런타임 다형성 (Runtime Polymorphism)
-컴파일 타임 다형성 (Compile-time Polymorphism)
+/일반화 프로그래밍 (Generic Programming)
+/메모리 관리
+/표준 라이브러리
+/다중 상속
+/예외 처리 (Exception Handling)
+/인라인 함수 (Inline Functions)
+/포인터 및 참조
+/템플릿
+/네임스페이스
+/const 키워드
+/함수 오버로딩
+/연산자 오버로딩
+/표준 입출력 스트림
+/스마트 포인터 (Smart Pointers)
+/캡슐화
+/가상 함수 (Virtual Functions)
+/다형성 (Polymorphism)
+/런타임 다형성 (Runtime Polymorphism)
+/컴파일 타임 다형성 (Compile-time Polymorphism)
